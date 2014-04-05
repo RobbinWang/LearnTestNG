@@ -2,6 +2,7 @@
     <test name="First Test" >
         <classes>
             <class name="org.robbin.testng.FirstTest" />
+            <class name="org.robbin.testng.SecondTest" />
         </classes>
     </test>
 </suite>
