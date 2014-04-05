@@ -1,8 +1,10 @@
-<suite name="First Suite" verbose="1" >
-    <test name="First Test" >
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="First Suite" verbose="1">
+    <test name="First Test">
         <classes>
-            <class name="org.robbin.testng.FirstTest" />
-            <class name="org.robbin.testng.SecondTest" />
+            <class name="org.robbin.testng.FirstTest"/>
+            <class name="org.robbin.testng.SecondTest"/>
         </classes>
     </test>
 </suite>
